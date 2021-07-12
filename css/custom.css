@@ -1,0 +1,13 @@
+body{
+    font-family: "Lobster Two";
+}
+
+.container{
+    width: 600px;
+    background-color: rgb(154, 173, 125);
+    text-align: center;
+}
+
+#calculate{
+    width: 300px;
+}
